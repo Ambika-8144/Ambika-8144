@@ -106,16 +106,5 @@ Machine learning based fraud detection system for identifying suspicious transac
 
 ---
 
-## 📈 Profile Views
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ambika-8144&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
----
-
-## ✨ Quote
-
-<p align="center">
-"Success is the sum of small efforts repeated day in and day out."
-</p>
