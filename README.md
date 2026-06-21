@@ -29,6 +29,24 @@
 
 ---
 
+## 🏅 Coding Profiles
+
+<p align="center">
+<a href="https://leetcode.com/u/PA-63_/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+
+<a href="https://www.hackerrank.com/profile/patangeambika1">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+</a>
+
+<a href="https://www.codechef.com/users/patangeambika1">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
+</a>
+</p>
+
+---
+
 ## 🛠️ Languages & Tools
 
 <p align="center">
@@ -88,23 +106,7 @@ Machine learning based fraud detection system for identifying suspicious transac
 
 ---
 
-## 🏅 Coding Profiles
 
-<p align="center">
-<a href="https://leetcode.com/u/PA-63_/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
-
-<a href="https://www.hackerrank.com/profile/patangeambika1">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
-</a>
-
-<a href="https://www.codechef.com/users/patangeambika1">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
-</a>
-</p>
-
----
 
 
 
