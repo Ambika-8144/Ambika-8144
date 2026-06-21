@@ -44,6 +44,13 @@
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
 </a>
 </p>
+<p align="center">
+
+<a href="https://hive.smartinterviews.in/profile/patangeambika1">
+<img src="https://img.shields.io/badge/Smart%20Interviews-4A90E2?style=for-the-badge">
+</a>
+
+</p>
 
 ---
 
