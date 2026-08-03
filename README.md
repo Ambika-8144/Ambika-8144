@@ -43,7 +43,7 @@
 ## 🏅 Coding Profiles
 
 <p align="center">
-<a href="https://leetcode.com/u/PA-63_/">
+<a href="https://leetcode.com/u/Ambika-6300/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
