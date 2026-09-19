@@ -108,7 +108,8 @@ Machine learning based fraud detection system for identifying suspicious transac
 ✔ Artificial Intelligence
 
 ---
+
 ## GitHub Stats
 
-![Ambika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambika-8144&show_icons=true)
+![Ambika's GitHub stats](https://github-stats-extended.vercel.app/api?username=Ambika-8144&show_icons=true)
 
